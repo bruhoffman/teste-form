@@ -1,0 +1,16 @@
+{
+  "name": "teste-form",
+  "version": "1.0.0",
+  "main": "./src/index.html",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
